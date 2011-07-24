@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\DbC.UnitTests.dll</TopNode>
+  <SelectedNode>[0-1011]DbC.UnitTests</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\DbC.UnitTests.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]DbC" Expanded="true" />
+    <Node UniqueName="[0-1011]DbC.UnitTests" Expanded="true" />
+    <Node UniqueName="[0-1012]DbC.UnitTests.Assertions" Expanded="true" />
+    <Node UniqueName="[0-1000]DbC.UnitTests.Assertions.AssertionsCompositionTest" Expanded="true" />
+    <Node UniqueName="[0-1004]DbC.UnitTests.AssertionTest" Expanded="true" />
+  </Nodes>
+</VisualState>
