@@ -1,8 +1,0 @@
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\DbC.UnitTests.dll
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\DbC.UnitTests.pdb
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\DbC.dll
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\nunit.framework.dll
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\bin\Debug\DbC.pdb
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\obj\Debug\DbC.UnitTests.dll
-C:\Users\Daniel\Documents\projetos\DbC\src\Dbc.UnitTests\obj\Debug\DbC.UnitTests.pdb
