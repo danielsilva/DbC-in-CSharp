@@ -1,5 +1,0 @@
-C:\Users\Daniel\Documents\projetos\DbC\src\DbC\bin\Debug\DbC.dll
-C:\Users\Daniel\Documents\projetos\DbC\src\DbC\bin\Debug\DbC.pdb
-C:\Users\Daniel\Documents\projetos\DbC\src\DbC\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Daniel\Documents\projetos\DbC\src\DbC\obj\Debug\DbC.dll
-C:\Users\Daniel\Documents\projetos\DbC\src\DbC\obj\Debug\DbC.pdb
