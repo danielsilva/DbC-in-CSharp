@@ -72,12 +72,14 @@ namespace DbC
 
         public static bool operator true(Assertion a)
         {
-            return a.isValid;
+            a.Validate();
+            return false;
         }
 
         public static bool operator false(Assertion a)
         {
-            return !a.isValid;
+            a.Validate();
+            return false;
         }
     }
 }
